@@ -1,78 +1,68 @@
-# 👋 Ciao, sono David Nuccioni
+# 🔬 David Nuccioni — Physics & Computational Simulations
 
 🎓 Studente di Fisica
-💻 Appassionato di simulazioni numeriche, modellizzazione e programmazione scientifica
-🐍 Python per calcolo, analisi dati e visualizzazione
+💻 Simulazioni numeriche · Modellizzazione · Programmazione scientifica
 
 ---
 
-## 🔬 Cosa troverai qui
+## 🧠 Focus del profilo
 
-Questo profilo raccoglie principalmente:
+Questo spazio raccoglie progetti sviluppati durante il percorso universitario:
 
-* simulazioni fisiche
-* progetti universitari
+* simulazioni di sistemi fisici
 * modelli numerici
-* analisi e visualizzazioni scientifiche
+* analisi dati
+* visualizzazioni scientifiche
 
-Ogni repository nasce come strumento per capire meglio fenomeni fisici — dalla teoria alla simulazione.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidNuccioni&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNuccioni&layout=compact)
-
+Obiettivo: trasformare concetti teorici in strumenti computazionali.
 
 ---
 
-## 🧠 Aree di interesse
+## 📊 Statistiche GitHub
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidNuccioni\&show_icons=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidNuccioni\&layout=compact)
+
+---
+
+## 🛠 Strumenti principali
+
+* Python — NumPy · SciPy · Matplotlib
+* Jupyter Notebook
+* Git / GitHub
+* metodi numerici di base
+
+---
+
+## 🔍 Aree di interesse fisico
 
 * meccanica classica
 * elettromagnetismo
-* metodi numerici
-* simulazioni dinamiche
-* visualizzazione dati scientifici
+* sistemi dinamici
+* simulazioni numeriche
+* modellizzazione computazionale
 
 ---
 
-## 🛠️ Strumenti principali
+## 🚀 Progetti
 
-* Python (NumPy, SciPy, Matplotlib)
-* Jupyter Notebook
-* Git / GitHub
-* basi di programmazione scientifica
+Le repository includono:
 
----
+* simulazioni universitarie
+* esercizi computazionali
+* modelli fisici sperimentali
 
-## 🚀 Repository in evidenza
-
-Qui trovi progetti legati a:
-
-* simulazioni di sistemi fisici
-* esercizi computazionali universitari
-* modelli numerici sperimentali
-
-👉 Ogni progetto è documentato per essere comprensibile e riutilizzabile.
+Ogni progetto è documentato per chiarezza e riproducibilità.
 
 ---
 
-## 📚 Filosofia del profilo
+## 📐 Filosofia
 
-> Capire la fisica significa anche saperla simulare.
+> La fisica si comprende davvero quando la si può simulare.
 
-Uso la programmazione come estensione del ragionamento fisico:
-visualizzare, sperimentare e verificare modelli.
-
----
-
-## 📫 Contatti / futuro
-
-Profilo in evoluzione insieme al mio percorso accademico.
+La programmazione è uno strumento per esplorare, verificare e visualizzare modelli teorici.
 
 ---
 
-⭐ Se ti interessa la fisica computazionale o le simulazioni, dai un’occhiata ai repository!
-
+⭐ Profilo in continua evoluzione insieme al percorso accademico.

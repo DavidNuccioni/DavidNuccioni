@@ -21,9 +21,10 @@ Ogni repository nasce come strumento per capire meglio fenomeni fisici — dalla
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidNuccioni\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidNuccioni&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNuccioni\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNuccioni&layout=compact)
+
 
 ---
 

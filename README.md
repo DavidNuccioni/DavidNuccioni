@@ -1,18 +1,19 @@
 # 🔬 David Nuccioni — Physics & Computational Simulations
 
-🎓 Studente di Fisica
+🎓 Laurea in Fisica 
+📖 Studente magistrale di Astrofisica
 💻 Simulazioni numeriche · Modellizzazione · Programmazione scientifica
 
 ---
 
 ## 🧠 Focus del profilo
 
-Questo spazio raccoglie progetti sviluppati durante il percorso universitario:
+Il profilo raccoglie progetti sviluppati durante il percorso universitario:
 
-* simulazioni di sistemi fisici
-* modelli numerici
-* analisi dati
-* visualizzazioni scientifiche
+* Simulazioni di sistemi fisici
+* Modelli numerici
+* Analisi dati
+* Visualizzazioni scientifiche
 
 Obiettivo: trasformare concetti teorici in strumenti computazionali.
 
@@ -33,17 +34,17 @@ Obiettivo: trasformare concetti teorici in strumenti computazionali.
 * Python — NumPy · SciPy · Matplotlib
 * Jupyter Notebook
 * Git / GitHub
-* metodi numerici di base
+* Metodi numerici di base
+* Metodi statistici per l'analisi dati
 
 ---
 
 ## 🔍 Aree di interesse fisico
 
-* meccanica classica
-* elettromagnetismo
-* sistemi dinamici
-* simulazioni numeriche
-* modellizzazione computazionale
+* Astrofisica e Astroparticelle 
+* Fisica delle Alte Energie
+* Simulazioni numeriche
+* Modellizzazione computazionale
 
 ---
 
@@ -51,20 +52,7 @@ Obiettivo: trasformare concetti teorici in strumenti computazionali.
 
 Le repository includono:
 
-* simulazioni universitarie
+* simulazioni di fenomeni fisici
 * esercizi computazionali
 * modelli fisici sperimentali
 
-Ogni progetto è documentato per chiarezza e riproducibilità.
-
----
-
-## 📐 Filosofia
-
-> La fisica si comprende davvero quando la si può simulare.
-
-La programmazione è uno strumento per esplorare, verificare e visualizzare modelli teorici.
-
----
-
-⭐ Profilo in continua evoluzione insieme al percorso accademico.

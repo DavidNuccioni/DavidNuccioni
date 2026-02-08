@@ -32,6 +32,7 @@ Obiettivo: trasformare concetti teorici in strumenti computazionali.
 ## 🛠 Strumenti principali
 
 * Python — NumPy · SciPy · Matplotlib · Pandas · Sklearn
+* C++ - ROOT
 * Jupyter Notebook
 * Git / GitHub
 * Metodi numerici di base

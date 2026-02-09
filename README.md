@@ -1,7 +1,6 @@
 # 🔬 David Nuccioni — Physics & Computational Simulations
 
-🎓 Laurea in Fisica 
-📖 Studente magistrale di Astrofisica
+
 💻 Simulazioni numeriche · Modellizzazione · Programmazione scientifica
 </div>
 
@@ -9,29 +8,24 @@
 
 <table style="color:white;">
   <tr>
-    <td>💭</td>
-    <td><b>Currently learning</b></td>
-    <td>Advanced Python</td>
+    <td>📖</td>
+    <td><b>Studente magistrale</b></td>
+    <td>Astrophysics</td>
   </tr>
   <tr>
-    <td>🚀</td>
-    <td><b>Working on</b></td>
-    <td><a href="https://vibepost.ddns.net">VibePost</a></td>
+    <td>🎓</td>
+    <td><b>Laurea</b></td>
+    <td>Fisica</td>
   </tr>
   <tr>
-    <td>🤝</td>
-    <td><b>Collaborating on</b></td>
-    <td>Anything exciting!</td>
+    <td>💻</td>
+    <td><b>Interessato</b></td>
+    <td>Simulazioni numeriche · Modellizzazione · Programmazione scientifica</td>
   </tr>
   <tr>
     <td>📬</td>
     <td><b>Contact</b></td>
-    <td><a href="mailto:s4il.is.a.dev@gmail.com">s4il.is.a.dev@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>🌐</td>
-    <td><b>Portfolio</b></td>
-    <td><a href="https://s4il.is-a.dev">s4il.is-a.dev</a></td>
+    <td><a href="mailto:nuccionidavid@gmail.com">nuccionidavid@gmail.com</a></td>
   </tr>
 </table>
 

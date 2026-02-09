@@ -46,11 +46,18 @@ Obiettivo: trasformare concetti teorici in strumenti computazionali.
 
 ## 📊 Statistiche GitHub
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavidNuccioni&show_icons=true&theme=onedark&hide=issues,prs,contribs)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidNuccioni&show_icons=true&theme=onedark&hide=issues,prs,contribs" alt="Stats" />
+</p>
 
-![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidNuccioni&layout=compact&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidNuccioni&layout=compact&theme=onedark" alt="Languages" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=DavidNuccioni&theme=onedark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DavidNuccioni&theme=onedark" alt="Streak" />
+</p>
+
 
 ---
 

@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td>📬</td>
-    <td><b>Contact</b></td>
+    <td><b>Contatto</b></td>
     <td><a href="mailto:nuccionidavid@gmail.com">nuccionidavid@gmail.com</a></td>
   </tr>
 </table>

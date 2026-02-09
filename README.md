@@ -1,7 +1,5 @@
 # 🔬 David Nuccioni — Physics & Computational Simulations
 
-
-💻 Simulazioni numeriche · Modellizzazione · Programmazione scientifica
 </div>
 
 <div align="center">
@@ -9,7 +7,7 @@
 <table style="color:white;">
   <tr>
     <td>📖</td>
-    <td><b>Studente magistrale</b></td>
+    <td><b>Studente</b></td>
     <td>Astrophysics</td>
   </tr>
   <tr>

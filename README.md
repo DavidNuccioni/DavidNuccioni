@@ -8,7 +8,7 @@
   <tr>
     <td>📖</td>
     <td><b>Studente</b></td>
-    <td>Astrophysics</td>
+    <td>Astrofisica</td>
   </tr>
   <tr>
     <td>🎓</td>

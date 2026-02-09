@@ -3,6 +3,39 @@
 🎓 Laurea in Fisica 
 📖 Studente magistrale di Astrofisica
 💻 Simulazioni numeriche · Modellizzazione · Programmazione scientifica
+</div>
+
+<div align="center">
+
+<table style="color:white;">
+  <tr>
+    <td>💭</td>
+    <td><b>Currently learning</b></td>
+    <td>Advanced Python</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Working on</b></td>
+    <td><a href="https://vibepost.ddns.net">VibePost</a></td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Collaborating on</b></td>
+    <td>Anything exciting!</td>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td><b>Contact</b></td>
+    <td><a href="mailto:s4il.is.a.dev@gmail.com">s4il.is.a.dev@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://s4il.is-a.dev">s4il.is-a.dev</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 

@@ -28,8 +28,7 @@
   <tr>
     <td>📄</td>
     <td><b>Curriculum Vitae</b></td>
-    <td><a href="[https://raw.githubusercontent.com/DavidNuccioni/Curriculum_Vitae/main/Curriculum_Vitae.pdf}
-)">Download CV</a></td>
+    <td><a href="https://raw.githubusercontent.com/DavidNuccioni/Curriculum_Vitae/main/Curriculum_Vitae.pdf">Download CV</a></td>
   </tr>
 </table>
 

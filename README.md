@@ -25,6 +25,12 @@
     <td><b>Contatto</b></td>
     <td><a href="mailto:nuccionidavid@gmail.com">nuccionidavid@gmail.com</a></td>
   </tr>
+  <tr>
+    <td>📄</td>
+    <td><b>Curriculum Vitae</b></td>
+    <td><a href="[mailto:nuccionidavid@gmail.com](https://raw.githubusercontent.com/DavidNuccioni/Curriculum_Vitae/main/Curriculum_Vitae.pdf
+)">Download CV</a></td>
+  </tr>
 </table>
 
 </div>

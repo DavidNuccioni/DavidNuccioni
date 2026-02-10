@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>💻</td>
-    <td><b>Interessato</b></td>
+    <td><b>Interesse</b></td>
     <td>Simulazioni numeriche · Modellizzazione · Programmazione scientifica</td>
   </tr>
   <tr>
